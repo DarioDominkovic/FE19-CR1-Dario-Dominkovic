@@ -1,0 +1,25 @@
+.about-container {
+	margin: auto;
+	width: 50%;
+	.titel {
+		text-align: center;
+		font-size: 25px;
+		font-weight: bolder;
+		font-family: "Pacifico", cursive;
+	}
+	img {
+		width: 100%;
+		border-radius: 30px;
+	}
+	.about-header {
+		background-color: $backgroundcolor;
+		padding: 20px;
+	}
+	.contactus-container {
+		background-color: $backgroundcolor;
+		padding: 50px;
+		.contactus {
+			text-align: center;
+		}
+	}
+}
